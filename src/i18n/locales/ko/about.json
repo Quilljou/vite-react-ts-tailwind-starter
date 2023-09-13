@@ -1,0 +1,6 @@
+{
+  "description": {
+    "part1": "t 함수에 적절한 유형을 추론하기 위해 Resources 유형을 재정의하는 유형 확장을 사용해야 합니다.",
+    "part2": "@types/i18next에서 예제를 확인하세요."
+  }
+}

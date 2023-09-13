@@ -1,0 +1,6 @@
+{
+  "description": {
+    "part1": "Um den geeigneten Typ für die Funktion t zu ermitteln, sollten Sie die Typenerweiterung verwenden, um den Typ Resources zu überschreiben.",
+    "part2": "Schauen Sie sich @types/i18next an, um ein Beispiel zu sehen."
+  }
+}

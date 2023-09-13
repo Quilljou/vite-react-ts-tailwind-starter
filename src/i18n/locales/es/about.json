@@ -1,0 +1,6 @@
+{
+  "description": {
+    "part1": "Para inferir el tipo apropiado para la función t, debes usar la anotación de tipo para sobrescribir el tipo Resources.",
+    "part2": "Echa un vistazo a @types/i18next para ver un ejemplo."
+  }
+}

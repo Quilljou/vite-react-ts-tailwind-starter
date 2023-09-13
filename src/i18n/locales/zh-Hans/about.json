@@ -1,0 +1,6 @@
+{
+  "description": {
+    "part1": "为了推断 t 函数的适当类型，您应该使用类型扩展来覆盖 Resources 类型。",
+    "part2": "查看 @types/i18next 以查看示例。"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "git.ignoreLimitWarning": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
