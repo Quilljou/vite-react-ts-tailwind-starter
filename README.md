@@ -34,9 +34,28 @@ We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel fr
 
 [Why this tech stack](https://)
 
+
+## Project Structure
+
+```sh
+src
+├── app.tsx     # App entry
+├── assets      # Assets for images, favicon etc
+├── components  # React components
+├── hooks       # React hooks
+├── i18n        # i18n files
+├── lib         # utils、tools、services
+├── main.tsx    # File entry
+├── pages       # One .tsx per page
+├── router.tsx  # Routers
+├── styles      # less files
+├── types       # Typescript types
+└── vite-env.d.ts
+```
+
 ## Deploy
 
-[Cloudflare Pages](https://pages.cloudflare.com/) is my first option to deploy React App，follow [this documentation](https://developers.cloudflare.com/pages/framework-guides/deploy-a-react-site/) to deploy your site
+[Cloudflare Pages](https://pages.cloudflare.com/) is my first option to deploy React App，follow [this documentation](https://developers.cloudflare.com/pages/framework-guides/deploy-a-react-site/#deploying-with-cloudflare-pages) to deploy your site. Don't forget build directory should	choose `dist`
 
 [Vercel](https://pages.cloudflare.com/) is a good option too，Go to [Vercel](https://vercel.com/new) and link to your Git Repo
 
