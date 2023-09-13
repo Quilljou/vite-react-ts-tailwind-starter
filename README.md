@@ -1,6 +1,6 @@
 ## Vite-React-Tailwind-Starter
 
-Choosing a technology stack is a very subjective matter, if you happen to like using Vite, Tailwind, TS and shadcn ui and more to build React SPA applications, then give it a try.
+Choosing a technology stack is a very subjective matter, if you happen to like using `Vite`, `Tailwind`, `TS` and `shadcn ui` and more to build React SPA applications, then give it a try.
 
 ## Run
 
@@ -10,32 +10,34 @@ yarn
 yarn dev
 ```
 
-We prefer Yarn as package manager, If you want to use pnpm or npm, feel free
+We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel free to use
 
 
 ## Tech Stack
 
-- vite
-- react
-- shadcn ui
-- [tailwindcss](https://tailwindcss.com/)
+- [vite](https://vitejs.dev/)
+- [react](https://reactjs.org/)
+- [shadcn ui](https://ui.shadcn.com/)
 - [react-i18next](https://github.com/i18next/react-i18next)
-- transmart
-- react-query
-- eslint/stylelint
-- prettier
-- react-router-dom
-- svgr
-- editorconfig
-- postcss
-- husky/lint-staged
-- commintlint
+- [transmart](https://github.com/Quilljou/transmart)
+- [react-query](https://tanstack.com/query/latest/)
+- [tailwindcss](https://tailwindcss.com/)
+- [less](http://lesscss.org/)
+- [postcss](https://postcss.org/)
+- [react-router-dom](https://reactrouter.com/en/6.16.0)
+- [eslint](https://eslint.org/)/[stylelint](https://stylelint.io/)
+- [prettier](https://prettier.io/)
+- [svgr](https://react-svgr.com/)
+- [editorconfig](https://editorconfig.org/)
+- [husky](https://typicode.github.io/husky/#/)/[lint-staged](https://github.com/okonet/lint-staged)
+- [commitlint](https://commitlint.js.org/)
 
 [Why this tech stack](https://)
 
 ## Deploy
 
 [Cloudflare Pages](https://pages.cloudflare.com/) is my first option to deploy React App，follow [this documentation](https://developers.cloudflare.com/pages/framework-guides/deploy-a-react-site/) to deploy your site
+
 [Vercel](https://pages.cloudflare.com/) is a good option too，Go to [Vercel](https://vercel.com/new) and link to your Git Repo
 
 Enjoy building.
