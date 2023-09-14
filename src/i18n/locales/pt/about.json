@@ -1,6 +1,0 @@
-{
-  "description": {
-    "part1": "Para inferir o tipo apropriado para a função t, você deve usar a sobreposição de tipo para substituir o tipo Resources.",
-    "part2": "Confira o @types/i18next para ver um exemplo."
-  }
-}

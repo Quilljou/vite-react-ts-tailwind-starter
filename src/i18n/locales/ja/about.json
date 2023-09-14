@@ -1,6 +1,0 @@
-{
-  "description": {
-    "part1": "t関数の適切な型を推論するために、type augmentationを使用してResources型をオーバーライドする必要があります。",
-    "part2": "@types/i18nextをチェックして、例を見てください。"
-  }
-}

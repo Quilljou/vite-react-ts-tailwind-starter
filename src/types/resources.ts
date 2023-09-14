@@ -1,8 +1,8 @@
-import about from '../i18n/locales/en/about.json'
 import translation from '../i18n/locales/en/translation.json'
+import notfound from '../i18n/locales/en/notfound.json'
 
 const resources = {
-  about,
+  notfound,
   translation,
 } as const
 

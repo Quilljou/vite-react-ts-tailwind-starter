@@ -19,6 +19,7 @@ We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel fr
 - [react](https://reactjs.org/)
 - [shadcn ui](https://ui.shadcn.com/)
 - [react-i18next](https://github.com/i18next/react-i18next)
+- [react-lucide](https://lucide.dev/)
 - [transmart](https://github.com/Quilljou/transmart)
 - [react-query](https://tanstack.com/query/latest/)
 - [tailwindcss](https://tailwindcss.com/)
@@ -32,8 +33,6 @@ We prefer `Yarn` as package manager, If you want to use `pnpm` or `npm`, feel fr
 - [husky](https://typicode.github.io/husky/#/)/[lint-staged](https://github.com/okonet/lint-staged)
 - [commitlint](https://commitlint.js.org/)
 
-[Why this tech stack](https://)
-
 
 ## Project Structure
 
@@ -44,11 +43,11 @@ src
 ├── components  # React components
 ├── hooks       # React hooks
 ├── i18n        # i18n files
-├── lib         # utils、tools、services
+├── lib         # Utils、tools、services
 ├── main.tsx    # File entry
 ├── pages       # One .tsx per page
 ├── router.tsx  # Routers
-├── styles      # less files
+├── styles      # Less files
 ├── types       # Typescript types
 └── vite-env.d.ts
 ```

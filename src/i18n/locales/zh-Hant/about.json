@@ -1,6 +1,0 @@
-{
-  "description": {
-    "part1": "為了推斷 t 函數的適當類型，您應該使用類型擴充來覆蓋 Resources 類型。",
-    "part2": "查看 @types/i18next 以查看示例。"
-  }
-}

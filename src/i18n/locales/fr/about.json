@@ -1,6 +1,0 @@
-{
-  "description": {
-    "part1": "Pour inférer le type approprié pour la fonction t, vous devriez utiliser l'augmentation de type pour remplacer le type Resources.",
-    "part2": "Consultez @types/i18next pour voir un exemple."
-  }
-}

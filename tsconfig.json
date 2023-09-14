@@ -22,7 +22,10 @@
     "experimentalDecorators": true,
     "baseUrl": ".",
     "rootDir": ".",
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "paths": {
+      "src/*": ["./src/*"]
+    }
   },
   "include": ["./src", "vite-env.d.ts"]
 }

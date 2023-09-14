@@ -1,6 +1,0 @@
-{
-  "description": {
-    "part1": "Per inferire il tipo appropriato per la funzione t, dovresti utilizzare l'aumento del tipo per sovrascrivere il tipo Resources.",
-    "part2": "Dai un'occhiata a @types/i18next per vedere un esempio."
-  }
-}
