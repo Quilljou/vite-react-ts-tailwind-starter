@@ -61,11 +61,11 @@ src
 Enjoy building.
 
 
-## Related (Coming Soon)
+## Related
 
-[Next Starter](https://)
+[Next Starter](https://github.com/Quilljou/next-ts-tailwind-starter)
 
-[Electron Starter](https://)
+<!-- [Electron Starter](https://)
 
 [R3f Starter](https://)
 
@@ -77,6 +77,6 @@ Enjoy building.
 
 [Chrome Extension Starter](https://)
 
-[VSCode Extension Starter](https://)
+[VSCode Extension Starter](https://) -->
 
 
