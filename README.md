@@ -63,20 +63,8 @@ Enjoy building.
 
 ## Related
 
-[Next Starter](https://github.com/Quilljou/next-ts-tailwind-starter)
+- [Next Starter](https://github.com/Quilljou/next-ts-tailwind-starter)
 
-<!-- [Electron Starter](https://)
+- [React Starter](https://github.com/Quilljou/vite-react-ts-tailwind-starter)
 
-[R3f Starter](https://)
-
-[Express Starter](https://)
-
-[Node Starter](https:/)
-
-[Figma Plugin Starter](https://)
-
-[Chrome Extension Starter](https://)
-
-[VSCode Extension Starter](https://) -->
-
-
+- [Figma Starter](https://github.com/Quilljou/figma-react-tailwind-starter)
